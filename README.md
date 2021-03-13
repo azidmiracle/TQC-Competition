@@ -26,8 +26,31 @@ There is already a database which MS Access.
 
 ## Interface
 
-These are my teammates.
+* These are my teammates.
 
 ![Homepage](/images/20200422_073916.jpg)
 
 
+* Search for the part number
+
+![Homepage](/images/20200422_073932.jpg)
+
+* Search for the Unit Assembly
+
+![Homepage](/images/20200422_074041.jpg)
+
+* Search for the parents units that used the specific part
+
+![Homepage](/images/20200422_074049.jpg)
+
+* Search the units that are being used in the machine
+
+![Homepage](/images/20200422_074056.jpg)
+
+* Keyword search
+
+![Homepage](/images/20200422_074119.jpg)
+
+* Get the parts list
+
+![Homepage](/images/20200422_074129.jpg)

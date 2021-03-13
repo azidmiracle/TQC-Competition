@@ -11,7 +11,7 @@ My team and our bosses were very proud of us because it was our first time to wi
 # Background
 
 We already have an exising database in the company, however the interface is a bit old and very to difficult to use. Also, we only have one computer has this software. 
-So, we decided to create our own MS Excel software that retrieve the data from the database with more features.
+So, we decided to create our own MS Excel software (with more features than the current software) that retrieves the data from the database .
 
 Unfortunately, we are not allowed to download any data from our server.
 All files done inside the company premise are strictly confidential.

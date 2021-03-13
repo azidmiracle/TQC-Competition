@@ -23,7 +23,7 @@ I have some photos taken during our competition.
 # Design
 
 ## Database
-There is already a database which MS Access.
+There is already a database which is MS Access.
 
 ## Interface
 

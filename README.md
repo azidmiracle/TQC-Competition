@@ -1,5 +1,5 @@
 # Introduction
-Every year our company holds a Quality and Productivity competition amoung departments such as production, design and development, accounting etc.
+Every year our company holds a Quality and Productivity competition among different departments such as production, design and development, accounting etc.
 I am in the design and development team and my manager included me in the team of 9 members to formulate an idea that would be beneficial to our department.
 We were alloted 6 months for the project including the implementation.
 

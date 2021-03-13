@@ -28,6 +28,6 @@ There is already a database which MS Access.
 
 These are my teammates.
 
-![Homepage](/images/20200422_073916/JPG)
+![Homepage](/images/20200422_073916.jpg)
 
 

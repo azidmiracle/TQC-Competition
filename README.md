@@ -15,8 +15,9 @@ So, we decided to create our own MS Excel software (with more features than the 
 
 Unfortunately, we are not allowed to download any data from our server.
 All files done inside the company premise are strictly confidential.
+So, I cannot upload the program here.
 
-I have some photos taken was during our competition.
+I have some photos taken during our competition.
 
 
 # Design
